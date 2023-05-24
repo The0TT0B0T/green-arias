@@ -1,0 +1,116 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Spring Clean Up",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./images/spring-cleanup.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Fall Clean Up",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/fall-cleanup.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Leaf Clean Up",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/leaf-cleaning.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Lawn Mowing",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/lawn-mowing.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Hedge & Shrub Trimming",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./images/Hedge-trimming.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Tree Trimming",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./images/treetrim.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Bed Edging",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "./images/lawn-edging-alternatives.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "Mulch",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./images/mulch.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "10" },
+        "fields": {
+          "title": "Overseeding",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/How-To-Overseed-a-Lawn-Adding-the-Seeds.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "11" },
+        "fields": {
+          "title": "Lawn Areation",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/Lawn-Areation-Service-in-FL.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "12" },
+        "fields": {
+          "title": "Sod",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/sod.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "13" },
+        "fields": {
+          "title": "Lawn Care",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/gravel.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "14" },
+        "fields": {
+          "title": "Garden Rototilling, Mulch Composting, and Soil Preparation",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/gravel.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "15" },
+        "fields": {
+          "title": "Rock Installation",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/rock.jpg" } } }
+        }
+      }
+    ]
+  }
